@@ -1,7 +1,0 @@
-site_name: World of Warcraft - Sıkça Sorulan Sorular
-repo_url: https://github.com/Engamegg/sss
-edit_uri: edit/master/
-
-nav:
-  - Giriş: 'index.md'
-  - Leveling: 'level.md'
