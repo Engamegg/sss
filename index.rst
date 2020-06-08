@@ -13,3 +13,10 @@ Merhabalar, bu alan içerisinde yeni oyunculara sıkça karşılaştıkları ve/
   <https://www.wowsnips.xyz>`_.
 - `Leveling - Seviye Atlama sürecinde nelere dikkat etmeliyim ?
   <https://www.wowsnips.xyz>`_.
+
+.. toctree::
+  :maxdepth: 2
+  :hidden:
+
+  haftalik
+  TSM Addon <tsm>
