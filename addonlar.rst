@@ -24,14 +24,14 @@ PvE
 -----
 * **DBM (Deadly Boss Mods)**: Raid ve dungeon içeriklerinde boss/trash mobların mekanikleri konusunda sizi önceden uyaran bir addondur.
 * **BigWigs**: DBM ile aynı görevi üstlenir. Dungeonlar için olan modülleri *LittleWigs* altında dağıtılmaktadır. Hangi addonu seçeceğiniz tamamen size kalmıştır.
-* **MDT (Method Dungeon Tools):** Mythic+ dungeon rotaları oluşturmak, paylaşmak, canlı gösterim yapmak veya dışarıdan rota almak için oluşturulmuş bir addondur. Addon içerisinde mobların özellikleri de ayrıca yer almaktadır.
+* **MDT (Mythic Dungeon Tools):** Mythic+ dungeon rotaları oluşturmak, paylaşmak, canlı gösterim yapmak veya dışarıdan rota almak için oluşturulmuş bir addondur. Addon içerisinde mobların özellikleri de ayrıca yer almaktadır.
 * **Simulationcraft:** Karakterinizi simulasyonu için gerekli ham çıktıyı sağlayan addondur. Bu çıktı ile dilerseniz doğrudan `Simulationcraft <https://www.simulationcraft.org/>`_ uygulamasının kendisini dilersenizde `Raidbots <https://www.raidbots.com>`_ sitesini kullanarak karakterinizin simulasyonunu gerçekleştirebilirsiniz.
 
 Ticaret
 ----
 * **AutoLootPlus:** Loot sürecini hızlandıran bir addondur. Bu addonu kullanmanız halinde LootAppraiser ile çakışma yapabilmektedir.
 * **WIT (WorthIT):** WorthIT yapacağınız oyun içi bazı ticari etkinliklerin size tahmini (fiyat kaynağı TSM'dir) getirisini göstermektedir.
-* `TSM (Trade Skill Master) <https://www.wowsnips.xyz>`_
+* `TSM (Trade Skill Master) <https://docs.wowsnips.xyz/tr/master/tsm.html>`_
 
 Kategorisiz
 ----
